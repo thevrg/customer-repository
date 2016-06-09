@@ -6,6 +6,6 @@
 
     <groupId>hu.dpc.edu.demo</groupId>
     <artifactId>customer-repository</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
 </project>
